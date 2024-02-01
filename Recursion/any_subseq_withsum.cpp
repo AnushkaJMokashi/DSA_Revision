@@ -1,5 +1,5 @@
 // print sbsequences whose sum is k
-#include<bits/stdc++.h>
+#include<bits/std++.h>
 using namespace std;
 
 void printS(int i, vector<int> &ds, int arr[] ,int s, int sum,int n){
